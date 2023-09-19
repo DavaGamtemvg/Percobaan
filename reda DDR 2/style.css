@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.produk img {
+    width: 20%;
+}
+
+body{
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 10;
+}
